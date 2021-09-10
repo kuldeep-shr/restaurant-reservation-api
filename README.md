@@ -9,7 +9,6 @@ just type   **`npm start`**
 **`Sample Input for booking`**
 
 `
-  {
   
     "time": "2021-08-18 02:0:0.0",
     
@@ -18,7 +17,6 @@ just type   **`npm start`**
     "email" : "stinson@gmail.com",
     
     "phone" : "282983822"
-  }
   
 `
 
