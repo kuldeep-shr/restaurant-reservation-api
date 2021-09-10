@@ -11,8 +11,11 @@ just type   **`npm start`**
 `
   {
     "time":"2021-08-18 02:0:0.0",
+    
     "name" : "Barney",
+    
     "email" : "stinson@gmail.com",
+    
     "phone" : "282983822"
   }
 `
