@@ -36,6 +36,7 @@ just hit this given below URL
 **For Booking:**
 
    **`POST`** request
+   
    **`URL`**  https://hobbit-cafe.herokuapp.com/api/book
 
 **For Cancelled:**
