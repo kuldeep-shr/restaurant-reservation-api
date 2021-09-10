@@ -9,13 +9,13 @@ just type   **`npm start`**
 **`Sample Input for booking`**
 
 
-    `"time": "2021-08-18 02:0:0.0",
+    "time": "2021-08-18 02:0:0.0",
     
     "name" : "Barney",
     
     "email" : "stinson@gmail.com",
     
-    "phone" : "282983822"`
+    "phone" : "282983822"
 
 
 **For Booking:**
