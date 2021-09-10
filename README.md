@@ -20,6 +20,7 @@ just hit this given below URL
 
 `Maximum Booking will be 5 `
 
+
 **`Sample Input for booking`**
 
 
@@ -33,18 +34,20 @@ just hit this given below URL
 
 
 **For Booking:**
-  **`POST`** request
-  **`URL`**  https://hobbit-cafe.herokuapp.com/api/book
+
+    **`POST`** request
+    **`URL`**  https://hobbit-cafe.herokuapp.com/api/book
 
 **For Cancelled:**
-  **`PATCH`** request
   
-  **`QUERY PARAM`** phone={string}
+    **`PATCH`** request
   
-  **`URL`**  https://hobbit-cafe.herokuapp.com/api/cancelled?phone=XXXXXXXX
+    **`QUERY PARAM`** phone={string}
   
-  _`For Example:`_ 
-     https://hobbit-cafe.herokuapp.com/api/cancelled?phone=987383728
+    **`URL`**  https://hobbit-cafe.herokuapp.com/api/cancelled?phone=XXXXXXXX
+  
+    _`For Example:`_ 
+         https://hobbit-cafe.herokuapp.com/api/cancelled?phone=987383728
      
      
 
