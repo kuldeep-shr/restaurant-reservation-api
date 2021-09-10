@@ -30,7 +30,7 @@ just hit this given below URL
     
     "name" : "Barney",
     
-    "email" : "stinson@gmail.com",
+    "email" : "legendary@gmail.com",
     
     "phone" : "282983822"
 
