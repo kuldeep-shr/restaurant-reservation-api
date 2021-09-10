@@ -40,4 +40,4 @@ just type   **`npm start`**
 
 **Add On Feature**
 
-   After the reservation of all Table, agian, we can make the booking but it's in the pending queue, maximum will be **5**
+   If Restaurant has full booked, again, we can make the booking but it's in the pending state, maximum will be **5**
