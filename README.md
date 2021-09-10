@@ -6,6 +6,17 @@ Simple Rest API for restaurant reservation table
 
 just type   **`npm start`**
 
+**`Sample Input for booking`**
+
+`
+  {
+    "time":"2021-08-18 02:0:0.0",
+    "name" : "Barney",
+    "email" : "stinson@gmail.com",
+    "phone" : "282983822"
+  }
+`
+
 
 **For Booking:**
   **`POST`** request
@@ -20,10 +31,3 @@ just type   **`npm start`**
   
   _`For Example:`_ 
      https://hobbit-cafe.herokuapp.com/api/cancelled?phone=987383728
-
-  **`Response:`** `"
-    {
-      "status": true,
-      "msg": "We have cancelled your Table for Sun Aug 08 2021 12:00:00 GMT+0530 (India Standard Time)"
-    }
-    "`
