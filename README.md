@@ -7,7 +7,7 @@ Simple Rest API for restaurant reservation table
 just type   **`npm start`**
 
 
-`Maximum Booking will be` **5**
+`Maximum Booking will be 5 `
 
 **`Sample Input for booking`**
 
