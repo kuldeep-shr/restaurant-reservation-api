@@ -7,6 +7,13 @@ Simple Rest API for restaurant reservation table
 just type   **`npm start`**
 
 
+**`To check the Parent Route/verify the Route`**
+
+just hit this given below URL
+
+**`GET`** request
+**`URL`** https://hobbit-cafe.herokuapp.com/api/
+
 `Maximum Booking will be 5 `
 
 **`Sample Input for booking`**
