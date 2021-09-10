@@ -13,7 +13,9 @@ just type   **`npm start`**
 
 **For Cancelled:**
   **`PATCH`** request
+  
   **`QUERY PARAM`** phone={string}
+  
   **`URL`**  https://hobbit-cafe.herokuapp.com/api/cancelled?phone=XXXXXXXX
   
   _`For Example:`_ 
