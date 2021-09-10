@@ -10,7 +10,8 @@ just type   **`npm start`**
 
 `
   {
-    "time":"2021-08-18 02:0:0.0",
+  
+    "time": "2021-08-18 02:0:0.0",
     
     "name" : "Barney",
     
@@ -18,6 +19,7 @@ just type   **`npm start`**
     
     "phone" : "282983822"
   }
+  
 `
 
 
