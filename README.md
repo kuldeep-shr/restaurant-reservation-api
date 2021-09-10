@@ -12,7 +12,11 @@ just type   **`npm start`**
 just hit this given below URL
 
 **`GET`** request
+
 **`URL`** https://hobbit-cafe.herokuapp.com/api/
+
+
+
 
 `Maximum Booking will be 5 `
 
