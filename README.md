@@ -6,6 +6,9 @@ Simple Rest API for restaurant reservation table
 
 just type   **`npm start`**
 
+
+_`Maximum Booking will be **5**`_
+
 **`Sample Input for booking`**
 
 
@@ -31,3 +34,10 @@ just type   **`npm start`**
   
   _`For Example:`_ 
      https://hobbit-cafe.herokuapp.com/api/cancelled?phone=987383728
+     
+     
+
+
+**Add On Feature**
+
+   After the reservation of all Table, agian, we can make the booking but it's in the pending queue, maximum will be **5**
