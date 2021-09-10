@@ -35,19 +35,19 @@ just hit this given below URL
 
 **For Booking:**
 
-    **`POST`** request
-    **`URL`**  https://hobbit-cafe.herokuapp.com/api/book
+   **`POST`** request
+   **`URL`**  https://hobbit-cafe.herokuapp.com/api/book
 
 **For Cancelled:**
   
-    **`PATCH`** request
+   **`PATCH`** request
   
-    **`QUERY PARAM`** phone={string}
+   **`QUERY PARAM`** phone={string}
   
-    **`URL`**  https://hobbit-cafe.herokuapp.com/api/cancelled?phone=XXXXXXXX
+   **`URL`**  https://hobbit-cafe.herokuapp.com/api/cancelled?phone=XXXXXXXX
   
-    _`For Example:`_ 
-         https://hobbit-cafe.herokuapp.com/api/cancelled?phone=987383728
+   _`For Example:`_ 
+        https://hobbit-cafe.herokuapp.com/api/cancelled?phone=987383728
      
      
 
