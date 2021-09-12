@@ -4,7 +4,7 @@ Simple Rest API for restaurant reservation table
 
 **To Start this API**
 
-# before you type npm start please don't forget the  **`npm install`** `
+before you type npm start please don't forget the  **`npm install`**
 
 and then go with npm start
 
